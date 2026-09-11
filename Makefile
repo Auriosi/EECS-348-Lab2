@@ -17,3 +17,4 @@ isEven.o: isEven.c
 
 clean:
 	rm -rf *.o
+	rm -f program
